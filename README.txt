@@ -24,7 +24,57 @@ what is constructor and destructor?
 -
 -
 -ex-
-#include<
+#include<iostream>
+using namespace std;
+class complex
+{
+private:
+int a,b,c;
+public:
+complex()
+{
+cout<<"cdac banglore"<<endl;
+}
+complex(int s,int g)
+{
+a=s;
+b=g;
+cout<<a;
+cout<<b;
+}
+complex(int m,int n,int k)
+{
+a=s;
+b=g;
+c=k;
+cout<<a;
+cout<<b;
+cout<<c:
+}
+~complex()////////////////////destructor is called
+{
+cout<<"cdac banglore";
+}
+void main()
+{
+complex v;
+complex m(10,20);
+complex n(10,20,30);
+}
+output-cdac banglore
+10
+20
+
+10
+20
+30
+
+cdac banglore
+cdac banglore
+cdac banglore
+
+
+
 what is inheritance?and access specifiers?
 what is virtual class?
 What is SOLID principles ?
