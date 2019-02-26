@@ -14,6 +14,7 @@ what is inline function?and advantages nd disadvantages?
 what is static function?
 what is friend function?
 what is void pointer?
+------------------------------------------------------------------------------
 what is constructor and destructor?
 -destructor
 -a destructor works opposite to constructor
@@ -72,7 +73,7 @@ output-cdac banglore
 cdac banglore
 cdac banglore
 cdac banglore
-
+-------------------------------------------------------------------------------------------
 
 
 what is inheritance?and access specifiers?
