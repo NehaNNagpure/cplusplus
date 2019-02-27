@@ -6,7 +6,19 @@ types of array?
 types of string?
 what is classes?
 what is objects?
-what is call by referance nd call by valu?
+what is call by referance nd call by value?
+-call by value
+-orignal value not modified a value
+-ex.void fun(int a)//a is formal argument
+{
+}
+main()
+{
+int x=5;//x is actual argument
+fun(x);
+}
+-oringal value not modified
+
 what is pointer?
 what is pointer?
 what is pointer with array?
